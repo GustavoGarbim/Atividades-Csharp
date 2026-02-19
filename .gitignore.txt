@@ -1,0 +1,19 @@
+## Arquivos e pastas do Visual Studio / IDE
+.vs/
+*.user
+*.userosscache
+*.sln.docstates
+*.suo
+
+## Pastas de compilação do C# (MUITO IMPORTANTE)
+[Bb]in/
+[Oo]bj/
+[Oo]ut/
+
+## Arquivos de configuração pessoal e senhas
+appsettings.Development.json
+secrets.json
+
+## Logs e caches
+*.log
+*.cache

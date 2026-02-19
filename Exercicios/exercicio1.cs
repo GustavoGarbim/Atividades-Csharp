@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace Exercicios
+﻿namespace Exercicios
 {
     public class exercicio1
     {

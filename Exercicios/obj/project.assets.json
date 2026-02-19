@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\74840\\Desktop\\Exercicios\\Exercicios.csproj",
+      "projectUniqueName": "C:\\Users\\74840\\Desktop\\Exercicios-Csharp\\Exercicios\\Exercicios.csproj",
       "projectName": "Exercicios",
-      "projectPath": "C:\\Users\\74840\\Desktop\\Exercicios\\Exercicios.csproj",
+      "projectPath": "C:\\Users\\74840\\Desktop\\Exercicios-Csharp\\Exercicios\\Exercicios.csproj",
       "packagesPath": "C:\\Users\\74840\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\74840\\Desktop\\Exercicios\\obj\\",
+      "outputPath": "C:\\Users\\74840\\Desktop\\Exercicios-Csharp\\Exercicios\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
