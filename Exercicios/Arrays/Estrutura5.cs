@@ -1,4 +1,4 @@
-﻿namespace Exercicios
+﻿namespace Exercicios.Arrays
 {
     internal class Estrutura5
     {

@@ -1,4 +1,4 @@
-﻿namespace Exercicios
+﻿namespace Exercicios.POO
 {
     public class exercicio4
     {
