@@ -1,5 +1,10 @@
 ﻿namespace Exercicios.CodeWars
 {
+
+    /*
+     Contador de vogais nas palavras.
+     */
+
     public class VowelCount
     {
         public static void GetVowelCount(string palavra)

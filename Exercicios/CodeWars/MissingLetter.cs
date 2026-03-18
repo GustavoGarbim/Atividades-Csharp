@@ -1,5 +1,10 @@
 ﻿namespace Exercicios.CodeWars
 {
+
+    /*
+     Letra faltante = passado um array de char, se estiver faltando alguma letra ordem alfabetica, irá ser adicionado automaticamente.
+     */
+
     public class MissingLetter
     {
         public static char LetraQueFalta(char[] array)

@@ -1,5 +1,10 @@
 ﻿namespace Exercicios.CodeWars
 {
+
+    /*
+     Amigo ou Inimigo? = se o nome tiver 4 letras, é amigos, qualquer coisa fora isso é inimigo.
+     */
+
     public class FriendOrFoe
     {
         public static IEnumerable<string> FriendFoe(string[] names)

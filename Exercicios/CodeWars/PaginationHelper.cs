@@ -1,5 +1,10 @@
 ﻿namespace Exercicios.CodeWars
 {
+
+    /*
+     Dada uma coleção e quantidade de itens por pagina, deve criar uma paginação, onde cada página terá uma quantia de itens.
+     */
+
     public class PaginationHelper<T>
     {
         private IList<T> _collection;

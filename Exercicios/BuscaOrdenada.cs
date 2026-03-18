@@ -1,11 +1,10 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace Exercicios
+﻿namespace Exercicios
 {
+
+    /*
+     2 tipos de busca em uma lista, 2 performances sendo testadas diretamente, ordenada e outra O(N).
+     */
+
     public class Program2
     {
         static void Main2(string[] args)

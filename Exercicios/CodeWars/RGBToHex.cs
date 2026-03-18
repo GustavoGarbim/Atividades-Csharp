@@ -1,5 +1,9 @@
 ﻿namespace Exercicios.CodeWars
 {
+
+    /*
+     Tradutor de RGB (Red, Green, Blue) para código Hexadecimal.
+     */
     public class RGBToHex
     {
         public static string Rgb(int r, int g, int b)
