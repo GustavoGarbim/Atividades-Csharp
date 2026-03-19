@@ -17,3 +17,5 @@ secrets.json
 ## Logs e caches
 *.log
 *.cache
+
+.gitignore
